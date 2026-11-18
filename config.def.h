@@ -9,7 +9,7 @@ static int fuzzy  = 1;                      /* -F  option; if 0, dmenu doesn't u
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"slpeen:size=24",
+	"spleen:size=24",
 	"Symbols Nerd Font Mono:size=10"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
